@@ -4,8 +4,10 @@ import requests
 
 #PARAMETERS
 input_data = {
-'prod': '',
-'quant': ''}
+        'order_id': '',
+        'password': '',
+        'apikey': '',
+        'shopname': ''}
 # /PARAMETERS 
 
 order_details_str = ''
